@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Shahar. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hey there! I'm Shahar. </h2>
 
 <h5> Looking to make my first leap and continue refining my skills with the right company</h5>
 
@@ -10,7 +10,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻🌐 &nbsp;<br>
+- 💻🌐 &nbsp;<br><br>
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -22,8 +22,8 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) 
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-- ⚙️ &nbsp;<br>
+  
+- ⚙️ &nbsp;<br><br>
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
