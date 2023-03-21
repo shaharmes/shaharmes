@@ -6,7 +6,7 @@
 
 - &nbsp; Gamer, Scuba diver and developer in my core.
 - &nbsp; Highly motivated self learner.
-- &nbsp; Pursuing Graphic Design and Blog Writing as hobbies.
+- &nbsp; Enthusiastic about new technologies and gadgets
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
