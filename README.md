@@ -8,7 +8,7 @@
 - &nbsp; Highly motivated self learner.
 - &nbsp; Enthusiastic about new technologies and gadgets
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Stack</h3>
 
 - 💻🌐 &nbsp;<br><br>
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
@@ -16,7 +16,24 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  <br/>
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=%2361DAFB)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=3982CE)
+  <br/>
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+  ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby&logoColor=%23663399)
+  ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  <br/>
+  ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress&logoColor=058a5e)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=%23C21325)
+  ![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)
+  ![Chai](https://img.shields.io/badge/-Chai-333333?style=flat&logo=chai)
+  ![pytest](https://img.shields.io/badge/-pytest-333333?style=flat&logo=pytest)
   <br/>
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
