@@ -4,13 +4,13 @@
 
 <h3> 👩‍💻&nbsp;About Me </h3>
 
--&nbsp; Gamer, Scuba diver and developer in my core.
--&nbsp; Highly motivated self learner.
--&nbsp; Pursuing Graphic Design and Blog Writing as hobbies.
+- &nbsp; Gamer, Scuba diver and developer in my core.
+- &nbsp; Highly motivated self learner.
+- &nbsp; Pursuing Graphic Design and Blog Writing as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻🌐 &nbsp;
+- 💻🌐 &nbsp;<br>
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -23,7 +23,7 @@
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) 
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-- ⚙️ &nbsp;
+- ⚙️ &nbsp;<br>
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
